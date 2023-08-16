@@ -1,1 +1,4 @@
 github에서 createt file로 해봄
+github에서 add file로 create new file해서 만든 add.txt를 vscode에 가져오려면 
+vscode에서 터미널에 git pull add.txt 했다.
+
